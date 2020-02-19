@@ -1,7 +1,7 @@
 console.log('Client side');
 
 
-fetch('http://localhost:3000/weather?address=India').then(response => {
+fetch('/weather?address=India').then(response => {
     response.json().then((data) => {
         console.log(data.error);
     })
@@ -17,7 +17,7 @@ const search = document.querySelector('input');
 weatherForm.addEventListener('submit', (e) => {
     e.preventDefault();
     console.log('Testing');
-    fetch('http://localhost:3000/weather?address=' + search.value).then(response => {
+    fetch('/weather?address=' + search.value).then(response => {
         response.json().then((data) => {
             console.log(data.error);
         })
