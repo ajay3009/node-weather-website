@@ -10,4 +10,4 @@ This is a starter project to build API using NodeJS.
 
 ## Copyright
 
-2020 Copyright NodeJs
+2020 Copyright NodeJs@AJPandit
