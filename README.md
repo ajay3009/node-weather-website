@@ -7,3 +7,7 @@ This is a starter project to build API using NodeJS.
 ## Purpose
 
 ## Deployment
+
+## Copyright
+
+2020 Copyright 
