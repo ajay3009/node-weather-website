@@ -4,11 +4,11 @@ This is a starter project to build API using NodeJS.
 
 ## Introduction
 
-This is a intro for the project.
+This is an intro for the project.
 
 ## Purpose
 
-this is a purpose for the project.
+This is a purpose for the project.
 
 ## Deployment
 
