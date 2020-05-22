@@ -1,6 +1,6 @@
 # Weather Website
 
-This is a starter project to build API using NodeJS.
+This is a starter project to build API using Node-JS.
 
 ## Introduction
 
